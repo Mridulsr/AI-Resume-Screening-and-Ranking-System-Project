@@ -1,9 +1,0 @@
-streamlit
-pandas
-scikit-learn
-pypdf
-numpy
-
-After you commit and push these changes to GitHub, Streamlit Cloud should detect the update, install the required `pypdf` library, and successfully run your application logic!
-
-Let me know if you run into any further issues!
